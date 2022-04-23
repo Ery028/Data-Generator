@@ -6,3 +6,6 @@ Equipe:
 - Gabriel Lopes dos Santos da Silva (20201780011)
 - Malonny Pereira Gomes Lira (20201780001)
 
+Para utilizar a Aplicação:
+
+> npm run dev
