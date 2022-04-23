@@ -103,7 +103,7 @@ clipboard.addEventListener('click', () => {
   textarea.select();
   document.execCommand('copy');
   textarea.remove();
-  alert('Password copiado para a área de transferênica!');
+  alert('Senha copiada para a área de transferência!');
 });
 
 clipboard2.addEventListener('click', () => {
@@ -116,7 +116,7 @@ clipboard2.addEventListener('click', () => {
   textarea.select();
   document.execCommand('copy');
   textarea.remove();
-  alert('Email copiado para a área de transferênica!');
+  alert('Email copiado para a área de transferência!');
 });
 
 clipboard3.addEventListener('click', () => {
@@ -129,5 +129,5 @@ clipboard3.addEventListener('click', () => {
   textarea.select();
   document.execCommand('copy');
   textarea.remove();
-  alert('CPF copiado para a área de transferênica!');
+  alert('CPF copiado para a área de transferência!');
 });
