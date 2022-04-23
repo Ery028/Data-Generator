@@ -1,7 +1,7 @@
 import { Router } from "express";
 import Pass from "./database/Pass.js";
 import Email from "./database/Email.js";
-import Cpf from "./database/Cpf.js";
+import Cpf from "./database/CPF.js";
 
 const router = Router();
 
